@@ -16,7 +16,7 @@
 ---
 
 **awesome-curator** fetches trending GitHub repositories by topic, validates
-every link asynchronously, and renders a clean Markdown awesome list —
+every link asynchronously, and renders a clean Markdown awesome list,
 updated daily via GitHub Actions with zero manual effort.
 
 **Demo output** → [AWESOME.md](output/AWESOME.md) · [AWESOME.pdf](output/AWESOME.pdf)
