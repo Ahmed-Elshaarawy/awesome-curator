@@ -42,14 +42,14 @@ jobs:
     steps:
       # ── 1. Checkout ────────────────────────────────────────────────────────
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
         with:
           # Use the built-in token so git push is authenticated
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # ── 2. Set up Python ───────────────────────────────────────────────────
       - name: Set up Python 3.11
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.5.0
         with:
           python-version: "3.11"
           cache: "pip"

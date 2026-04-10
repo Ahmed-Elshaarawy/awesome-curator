@@ -27,6 +27,11 @@ import markdown
 
 logger = logging.getLogger(__name__)
 
+# Suppress verbose DEBUG/INFO logs from WeasyPrint and fontTools
+logging.getLogger("weasyprint").setLevel(logging.ERROR)
+logging.getLogger("weasyprint.progress").setLevel(logging.ERROR)
+logging.getLogger("fontTools").setLevel(logging.ERROR)
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Badge colour map (mirrors shields.io named colours)
 # ─────────────────────────────────────────────────────────────────────────────
