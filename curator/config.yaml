@@ -1,0 +1,242 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# awesome-curator configuration
+#
+# Add new niches by copying the `ai_llm` block and changing the keys.
+# Each category searches GitHub by topic and picks the top repos by stars.
+# ─────────────────────────────────────────────────────────────────────────────
+
+niches:
+  # ── AI & LLM Tools ─────────────────────────────────────────────────────────
+  ai_llm:
+    name: "Awesome AI & LLM Tools"
+    tagline: "A curated list of awesome AI and Large Language Model tools, frameworks, and resources"
+    description: |
+      A curated collection of outstanding AI and Large Language Model (LLM) tools,
+      frameworks, libraries, and resources. Automatically updated daily by
+      [awesome-curator](https://github.com/your-org/awesome-curator).
+
+    categories:
+      - id: llm_frameworks
+        name: "LLM Frameworks & Libraries"
+        description: "Core frameworks and libraries for building applications with large language models"
+        topics:
+          - llm
+          - large-language-model
+          - llm-framework
+          - langchain
+          - llamaindex
+        min_stars: 500
+        max_repos: 12
+
+      - id: ai_agents
+        name: "AI Agents & Orchestration"
+        description: "Frameworks for building autonomous, multi-step AI agents and workflows"
+        topics:
+          - ai-agent
+          - autonomous-agent
+          - llm-agent
+          - autogen
+          - multi-agent
+        min_stars: 300
+        max_repos: 10
+
+      - id: vector_databases
+        name: "Vector Databases & Search"
+        description: "Databases and libraries optimised for vector embeddings and semantic similarity search"
+        topics:
+          - vector-database
+          - vector-search
+          - embeddings
+          - semantic-search
+          - ann
+        min_stars: 200
+        max_repos: 10
+
+      - id: fine_tuning
+        name: "Fine-tuning & Training"
+        description: "Tools for fine-tuning, instruction-tuning, and training large language models"
+        topics:
+          - fine-tuning
+          - llm-finetuning
+          - lora
+          - qlora
+          - instruction-tuning
+        min_stars: 100
+        max_repos: 10
+
+      - id: evaluation
+        name: "Evaluation & Benchmarking"
+        description: "Frameworks for evaluating, benchmarking, and monitoring LLM quality and safety"
+        topics:
+          - llm-evaluation
+          - llm-benchmark
+          - ai-evaluation
+          - llmops
+          - ai-safety
+        min_stars: 100
+        max_repos: 8
+
+      - id: deployment
+        name: "Deployment & Inference Serving"
+        description: "High-performance runtimes and platforms for serving LLMs in production"
+        topics:
+          - llm-inference
+          - model-serving
+          - llm-deployment
+          - inference-engine
+          - quantization
+        min_stars: 200
+        max_repos: 10
+
+      - id: rag
+        name: "RAG & Prompt Engineering"
+        description: "Tools for retrieval-augmented generation, prompt engineering, and context management"
+        topics:
+          - rag
+          - retrieval-augmented-generation
+          - prompt-engineering
+          - prompt-tuning
+          - context-window
+        min_stars: 100
+        max_repos: 10
+
+      - id: multimodal
+        name: "Multimodal & Vision-Language"
+        description: "Models and tools combining text, images, audio, and other modalities"
+        topics:
+          - multimodal
+          - vision-language-model
+          - vlm
+          - image-generation
+          - text-to-image
+        min_stars: 200
+        max_repos: 8
+
+    settings:
+      exclude_archived: true      # Skip archived repositories
+      exclude_forks: true         # Skip forked repositories
+      sort_by: stars              # Sort results by: stars | updated | forks
+      deduplicate: true           # Remove repos that appear in multiple categories
+      link_check_timeout: 10      # Seconds before a link is considered dead
+      link_check_concurrency: 20  # Max simultaneous link checks
+      max_description_length: 200 # Truncate descriptions longer than this
+
+  # ── Machine Learning Tools ───────────────────────────────────────────────────
+  ml_tools:
+    name: "Awesome Machine Learning Tools"
+    tagline: "A curated list of awesome Machine Learning frameworks, libraries, and resources"
+    description: |
+      A curated collection of outstanding Machine Learning frameworks, libraries,
+      MLOps tools, and resources. Automatically updated daily by
+      [awesome-curator](https://github.com/your-org/awesome-curator).
+
+    categories:
+      - id: ml_frameworks
+        name: "ML Frameworks & Libraries"
+        description: "Core machine learning and deep learning frameworks"
+        topics:
+          - machine-learning
+          - deep-learning
+          - pytorch
+          - tensorflow
+          - scikit-learn
+        min_stars: 1000
+        max_repos: 12
+
+      - id: mlops
+        name: "MLOps & Experiment Tracking"
+        description: "Tools for managing ML experiments, pipelines, and production workflows"
+        topics:
+          - mlops
+          - experiment-tracking
+          - mlflow
+          - wandb
+          - dvc
+        min_stars: 300
+        max_repos: 10
+
+      - id: automl
+        name: "AutoML & Hyperparameter Tuning"
+        description: "Automated machine learning and hyperparameter optimisation tools"
+        topics:
+          - automl
+          - hyperparameter-optimization
+          - neural-architecture-search
+          - optuna
+          - automated-machine-learning
+        min_stars: 200
+        max_repos: 8
+
+      - id: data_processing
+        name: "Data Processing & Feature Engineering"
+        description: "Libraries for data wrangling, feature engineering, and preprocessing"
+        topics:
+          - feature-engineering
+          - data-processing
+          - feature-store
+          - data-pipeline
+          - pandas
+        min_stars: 500
+        max_repos: 10
+
+      - id: model_interpretability
+        name: "Model Interpretability & Explainability"
+        description: "Tools for understanding, explaining, and debugging ML models"
+        topics:
+          - explainability
+          - interpretability
+          - xai
+          - shap
+          - model-interpretability
+        min_stars: 200
+        max_repos: 8
+
+      - id: computer_vision
+        name: "Computer Vision"
+        description: "Libraries and tools for image recognition, object detection, and vision tasks"
+        topics:
+          - computer-vision
+          - object-detection
+          - image-classification
+          - image-segmentation
+          - yolo
+        min_stars: 500
+        max_repos: 10
+
+      - id: nlp
+        name: "Natural Language Processing"
+        description: "Libraries for text processing, NLP tasks, and classical language models"
+        topics:
+          - natural-language-processing
+          - nlp
+          - text-classification
+          - named-entity-recognition
+          - sentiment-analysis
+        min_stars: 300
+        max_repos: 10
+
+      - id: time_series
+        name: "Time Series & Forecasting"
+        description: "Tools for time series analysis, forecasting, and anomaly detection"
+        topics:
+          - time-series
+          - forecasting
+          - anomaly-detection
+          - time-series-analysis
+          - time-series-forecasting
+        min_stars: 200
+        max_repos: 8
+
+    settings:
+      exclude_archived: true
+      exclude_forks: true
+      sort_by: stars
+      deduplicate: true
+      link_check_timeout: 10
+      link_check_concurrency: 20
+      max_description_length: 200
+
+# ── Output ────────────────────────────────────────────────────────────────────
+output:
+  directory: "output"     # All generated files go into the output/ folder
+  filename: "AWESOME.md"  # Output filename; change to README.md for awesome list repos

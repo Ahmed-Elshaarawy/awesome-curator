@@ -1,0 +1,46 @@
+# docker-compose.yml
+# ─────────────────────────────────────────────────────────────────────────────
+# Usage:
+#   docker compose run curator               # AI/LLM → output/AWESOME.md
+#   docker compose run curator --no-check    # same, skip link validation
+#   docker compose run ml                    # ML → output/AWESOME.md
+#   docker compose run pdf                   # AI/LLM → output/AWESOME.md + PDF
+#   docker compose run ml-pdf                # ML → output/AWESOME.md + PDF
+#   docker compose run ml-pdf --no-check     # same, skip link validation
+#
+# NOTE: extra flags (e.g. --no-check) are APPENDED to each service's
+# entrypoint, so they work correctly alongside the baked-in niche flags.
+# ─────────────────────────────────────────────────────────────────────────────
+
+services:
+  # ── AI & LLM niche ─────────────────────────────────────────────────────────
+  curator:
+    build: .
+    env_file: .env
+    volumes:
+      - ./output:/output
+    entrypoint: ["python", "-m", "curator", "--output-dir", "/output", "--niche", "ai_llm"]
+
+  # ── Machine Learning niche ──────────────────────────────────────────────────
+  ml:
+    build: .
+    env_file: .env
+    volumes:
+      - ./output:/output
+    entrypoint: ["python", "-m", "curator", "--output-dir", "/output", "--niche", "ml_tools"]
+
+  # ── AI/LLM niche + PDF export ─────────────────────────────────────────────
+  pdf:
+    build: .
+    env_file: .env
+    volumes:
+      - ./output:/output
+    entrypoint: ["python", "-m", "curator", "--output-dir", "/output", "--niche", "ai_llm", "--pdf"]
+
+  # ── ML niche + PDF export ──────────────────────────────────────────────────
+  ml-pdf:
+    build: .
+    env_file: .env
+    volumes:
+      - ./output:/output
+    entrypoint: ["python", "-m", "curator", "--output-dir", "/output", "--niche", "ml_tools", "--pdf"]

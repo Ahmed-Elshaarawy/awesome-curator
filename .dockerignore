@@ -1,0 +1,30 @@
+# Never include secrets in the Docker image
+.env
+.env.*
+
+# Git internals
+.git/
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Dev/test files (not needed at runtime)
+tests/
+.github/
+.idea/
+
+# Generated output (written at runtime, not baked in)
+AWESOME.md
+
+# Docs
+CONTRIBUTING.md
