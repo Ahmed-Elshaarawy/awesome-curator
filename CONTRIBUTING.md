@@ -76,7 +76,7 @@ curator always fetches the top repos by stars for each topic.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-org/awesome-curator.git
+git clone https://github.com/Ahmed-Elshaarawy/awesome-curator.git
 cd awesome-curator
 
 # 2. Create and activate a virtual environment

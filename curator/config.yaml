@@ -13,7 +13,7 @@ niches:
     description: |
       A curated collection of outstanding AI and Large Language Model (LLM) tools,
       frameworks, libraries, and resources. Automatically updated daily by
-      [awesome-curator](https://github.com/your-org/awesome-curator).
+      [awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator).
 
     categories:
       - id: llm_frameworks
@@ -128,7 +128,7 @@ niches:
     description: |
       A curated collection of outstanding Machine Learning frameworks, libraries,
       MLOps tools, and resources. Automatically updated daily by
-      [awesome-curator](https://github.com/your-org/awesome-curator).
+      [awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator).
 
     categories:
       - id: ml_frameworks

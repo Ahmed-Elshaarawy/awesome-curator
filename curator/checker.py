@@ -41,7 +41,7 @@ _DEFAULT_CONCURRENCY = 20  # max simultaneous open connections
 
 _USER_AGENT = (
     "Mozilla/5.0 (compatible; awesome-curator/1.0; "
-    "+https://github.com/your-org/awesome-curator)"
+    "+https://github.com/Ahmed-Elshaarawy/awesome-curator)"
 )
 
 

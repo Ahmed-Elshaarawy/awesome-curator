@@ -44,9 +44,9 @@ dev = [
 awesome-curator = "curator.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/your-org/awesome-curator"
-Repository = "https://github.com/your-org/awesome-curator"
-Issues = "https://github.com/your-org/awesome-curator/issues"
+Homepage = "https://github.com/Ahmed-Elshaarawy/awesome-curator"
+Repository = "https://github.com/Ahmed-Elshaarawy/awesome-curator"
+Issues = "https://github.com/Ahmed-Elshaarawy/awesome-curator/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["curator"]

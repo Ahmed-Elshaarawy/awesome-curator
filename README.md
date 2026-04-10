@@ -83,8 +83,6 @@ awesome-curator/
 
 ## Quick start
 
-### Option A — Docker (no Python install required)
-
 ```bash
 # 1. Clone
 git clone https://github.com/Ahmed-Elshaarawy/awesome-curator.git
@@ -95,36 +93,17 @@ cp .env.example .env
 # edit .env → GITHUB_TOKEN=ghp_...
 
 # 3. Build the image (once)
-docker build -t awesome-curator .
+docker compose build
 
 # 4. Run — all output lands in the output/ folder
-docker compose run curator --no-check     # AI/LLM → output/AWESOME.md
-docker compose run ml --no-check          # ML     → output/AWESOME.md
-docker compose run pdf --no-check         # AI/LLM → output/AWESOME.md + AWESOME.pdf
-docker compose run ml-pdf --no-check      # ML     → output/AWESOME.md + AWESOME.pdf
+docker compose run curator             # AI/LLM → output/AWESOME.md
+docker compose run ml                  # ML     → output/AWESOME.md
+docker compose run pdf                 # AI/LLM → output/AWESOME.md + AWESOME.pdf
+docker compose run ml-pdf              # ML     → output/AWESOME.md + AWESOME.pdf
 ```
 
-> **Tip:** `--no-check` skips link validation and is much faster. Drop it for a full run.
-
-### Option B — Local Python
-
-```bash
-# 1. Clone and install
-git clone https://github.com/Ahmed-Elshaarawy/awesome-curator.git
-cd awesome-curator
-
-python -m venv .venv
-source .venv/bin/activate    # Windows: .venv\Scripts\activate
-pip install -e ".[dev]"
-
-# 2. Add your GitHub token
-cp .env.example .env
-# edit .env → GITHUB_TOKEN=ghp_...
-
-# 3. Run
-python -m curator --list-niches
-python -m curator --niche ai_llm --no-check
-```
+> **Tip:** append `--no-check` to skip link validation and run faster:
+> `docker compose run pdf --no-check`
 
 ---
 
