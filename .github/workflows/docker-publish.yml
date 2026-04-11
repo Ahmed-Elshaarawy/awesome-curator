@@ -1,0 +1,33 @@
+# .github/workflows/docker-publish.yml
+# ─────────────────────────────────────────────────────────────────────────────
+# Builds and pushes the Docker image to Docker Hub on every push to main.
+# ─────────────────────────────────────────────────────────────────────────────
+
+name: Publish Docker Image
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  push:
+    name: Build & Push to Docker Hub
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v3.4.0
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Build and push image
+        uses: docker/build-push-action@v6.15.0
+        with:
+          context: .
+          push: true
+          tags: ahmedelshaarawy2/awesome-curator:latest
