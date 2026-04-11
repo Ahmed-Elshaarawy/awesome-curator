@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![Ruff](https://img.shields.io/badge/linter-ruff-purple?style=flat-square)](https://docs.astral.sh/ruff/)
-[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white)](Dockerfile)
+[![Docker](https://img.shields.io/badge/Docker-ahmedelshaarawy2%2Fawesome--curator-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/ahmedelshaarawy2/awesome-curator)
 [![Update Awesome List](https://github.com/Ahmed-Elshaarawy/awesome-curator/actions/workflows/update.yml/badge.svg)](https://github.com/Ahmed-Elshaarawy/awesome-curator/actions/workflows/update.yml)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -92,10 +92,7 @@ cd awesome-curator
 cp .env.example .env
 # edit .env → GITHUB_TOKEN=ghp_...
 
-# 3. Build the image (once)
-docker compose build
-
-# 4. Run — all output lands in the output/ folder
+# 3. Run — the image is pulled automatically from Docker Hub
 docker compose run curator             # AI/LLM → output/AWESOME.md
 docker compose run ml                  # ML     → output/AWESOME.md
 docker compose run pdf                 # AI/LLM → output/AWESOME.md + AWESOME.pdf

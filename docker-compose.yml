@@ -15,7 +15,7 @@
 services:
   # ── AI & LLM niche ─────────────────────────────────────────────────────────
   curator:
-    build: .
+    image: ahmedelshaarawy2/awesome-curator:latest
     env_file: .env
     volumes:
       - ./output:/output
@@ -23,7 +23,7 @@ services:
 
   # ── Machine Learning niche ──────────────────────────────────────────────────
   ml:
-    build: .
+    image: ahmedelshaarawy2/awesome-curator:latest
     env_file: .env
     volumes:
       - ./output:/output
@@ -31,7 +31,7 @@ services:
 
   # ── AI/LLM niche + PDF export ─────────────────────────────────────────────
   pdf:
-    build: .
+    image: ahmedelshaarawy2/awesome-curator:latest
     env_file: .env
     volumes:
       - ./output:/output
@@ -39,7 +39,7 @@ services:
 
   # ── ML niche + PDF export ──────────────────────────────────────────────────
   ml-pdf:
-    build: .
+    image: ahmedelshaarawy2/awesome-curator:latest
     env_file: .env
     volumes:
       - ./output:/output
