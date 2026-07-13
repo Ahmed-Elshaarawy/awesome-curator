@@ -4,7 +4,7 @@
 
 A curated list of awesome AI and Large Language Model tools, frameworks, and resources
 
-[![Last Updated](https://img.shields.io/badge/last_updated-2026--07--12-blue?style=flat-square)](#)
+[![Last Updated](https://img.shields.io/badge/last_updated-2026--07--13-blue?style=flat-square)](#)
 [![Repos](https://img.shields.io/badge/repos-78-green?style=flat-square)](#)
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-orange?style=flat-square)](#)
@@ -17,7 +17,7 @@ A curated collection of outstanding AI and Large Language Model (LLM) tools,
 frameworks, libraries, and resources. Automatically updated daily by
 [awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator).
 
-> **Auto-generated** by [awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator) · Last run: `2026-07-12 07:59 UTC`
+> **Auto-generated** by [awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator) · Last run: `2026-07-13 08:48 UTC`
 
 ---
 
@@ -41,18 +41,18 @@ frameworks, libraries, and resources. Automatically updated daily by
 
 | Repository | Description | Stars | Language | Updated |
 |:-----------|:------------|------:|:--------:|:-------:|
-| [**ECC**](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | 228.7k ⭐ | JavaScript | 2026-07-12 |
-| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | 213.4k ⭐ | Python | 2026-07-12 |
-| [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 185.5k ⭐ | Python | 2026-07-12 |
-| [**ollama**](https://github.com/ollama/ollama) | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 175.9k ⭐ | Go | 2026-07-12 |
-| [**prompts.chat**](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 165.5k ⭐ | HTML | 2026-07-12 |
-| [**markitdown**](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | 165.0k ⭐ | Python | 2026-07-12 |
-| [**transformers**](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. | 162.5k ⭐ | Python | 2026-07-12 |
-| [**firecrawl**](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web at scale. 🔥 | 149.5k ⭐ | TypeScript | 2026-07-12 |
-| [**dify**](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | 148.5k ⭐ | TypeScript | 2026-07-12 |
-| [**open-webui**](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 145.1k ⭐ | Python | 2026-07-12 |
-| [**langchain**](https://github.com/langchain-ai/langchain) | The agent engineering platform. | 141.6k ⭐ | Python | 2026-07-12 |
-| [**browser-use**](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | 104.3k ⭐ | Python | 2026-07-12 |
+| [**ECC**](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | 229.1k ⭐ | JavaScript | 2026-07-13 |
+| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | 214.0k ⭐ | Python | 2026-07-13 |
+| [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 185.5k ⭐ | Python | 2026-07-13 |
+| [**ollama**](https://github.com/ollama/ollama) | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 176.0k ⭐ | Go | 2026-07-13 |
+| [**prompts.chat**](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 165.6k ⭐ | HTML | 2026-07-13 |
+| [**markitdown**](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | 165.3k ⭐ | Python | 2026-07-13 |
+| [**transformers**](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. | 162.6k ⭐ | Python | 2026-07-13 |
+| [**firecrawl**](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web at scale. 🔥 | 150.1k ⭐ | TypeScript | 2026-07-13 |
+| [**dify**](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | 148.7k ⭐ | TypeScript | 2026-07-13 |
+| [**open-webui**](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 145.2k ⭐ | Python | 2026-07-13 |
+| [**langchain**](https://github.com/langchain-ai/langchain) | The agent engineering platform. | 141.6k ⭐ | Python | 2026-07-13 |
+| [**browser-use**](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | 104.5k ⭐ | Python | 2026-07-13 |
 
 
 ## AI Agents & Orchestration
@@ -61,16 +61,16 @@ frameworks, libraries, and resources. Automatically updated daily by
 
 | Repository | Description | Stars | Language | Updated |
 |:-----------|:------------|------:|:--------:|:-------:|
-| [**Front-End-Checklist**](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The essential checklist for modern web development, for humans and AI agents | 73.2k ⭐ | MDX | 2026-07-12 |
-| [**learn-claude-code**](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 | 70.7k ⭐ | Python | 2026-07-12 |
-| [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | 12 Lessons to Get Started Building AI Agents | 69.1k ⭐ | Jupyter Notebook | 2026-07-12 |
-| [**career-ops**](https://github.com/santifer/career-ops) | Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…) | 59.7k ⭐ | JavaScript | 2026-07-12 |
-| [**autogen**](https://github.com/microsoft/autogen) | A programming framework for agentic AI | 59.7k ⭐ | Python | 2026-07-12 |
-| [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f… | 56.8k ⭐ | Python | 2026-07-12 |
-| [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | 55.0k ⭐ | Python | 2026-07-12 |
-| [**cherry-studio**](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | 48.5k ⭐ | TypeScript | 2026-07-12 |
-| [**CowAgent**](https://github.com/zhayujie/CowAgent) | Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form… | 45.9k ⭐ | Python | 2026-07-12 |
-| [**nanobot**](https://github.com/HKUDS/nanobot) | Lightweight, open-source AI agent for your tools, chats, and workflows. | 45.3k ⭐ | Python | 2026-07-12 |
+| [**Front-End-Checklist**](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The essential checklist for modern web development, for humans and AI agents | 73.2k ⭐ | MDX | 2026-07-13 |
+| [**learn-claude-code**](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 | 70.8k ⭐ | Python | 2026-07-13 |
+| [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | 12 Lessons to Get Started Building AI Agents | 69.2k ⭐ | Jupyter Notebook | 2026-07-13 |
+| [**career-ops**](https://github.com/santifer/career-ops) | Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…) | 59.8k ⭐ | JavaScript | 2026-07-13 |
+| [**autogen**](https://github.com/microsoft/autogen) | A programming framework for agentic AI | 59.7k ⭐ | Python | 2026-07-13 |
+| [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f… | 57.0k ⭐ | Python | 2026-07-13 |
+| [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | 55.5k ⭐ | Python | 2026-07-13 |
+| [**cherry-studio**](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | 48.5k ⭐ | TypeScript | 2026-07-13 |
+| [**CowAgent**](https://github.com/zhayujie/CowAgent) | Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form… | 45.9k ⭐ | Python | 2026-07-13 |
+| [**nanobot**](https://github.com/HKUDS/nanobot) | Lightweight, open-source AI agent for your tools, chats, and workflows. | 45.3k ⭐ | Python | 2026-07-13 |
 
 
 ## Vector Databases & Search
@@ -79,16 +79,16 @@ frameworks, libraries, and resources. Automatically updated daily by
 
 | Repository | Description | Stars | Language | Updated |
 |:-----------|:------------|------:|:--------:|:-------:|
-| [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | 112.9k ⭐ | Jupyter Notebook | 2026-07-12 |
-| [**supabase**](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | 106.2k ⭐ | TypeScript | 2026-07-12 |
-| [**claude-mem**](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla… | 86.9k ⭐ | JavaScript | 2026-07-12 |
-| [**redis**](https://github.com/redis/redis) | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | 75.4k ⭐ | C | 2026-07-12 |
-| [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm) | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience | 63.1k ⭐ | JavaScript | 2026-07-12 |
-| [**llm-app**](https://github.com/pathwaycom/llm-app) | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an… | 59.1k ⭐ | Jupyter Notebook | 2026-07-12 |
-| [**meilisearch**](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | 58.5k ⭐ | Rust | 2026-07-12 |
-| [**llama_index**](https://github.com/run-llama/llama_index) | LlamaIndex is the leading document agent and OCR platform | 50.8k ⭐ | Python | 2026-07-12 |
-| [**milvus**](https://github.com/milvus-io/milvus) | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search | 45.2k ⭐ | Go | 2026-07-12 |
-| [**khoj**](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI… | 35.7k ⭐ | Python | 2026-07-12 |
+| [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | 112.9k ⭐ | Jupyter Notebook | 2026-07-13 |
+| [**supabase**](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | 106.3k ⭐ | TypeScript | 2026-07-13 |
+| [**claude-mem**](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla… | 87.0k ⭐ | JavaScript | 2026-07-13 |
+| [**redis**](https://github.com/redis/redis) | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | 75.4k ⭐ | C | 2026-07-13 |
+| [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm) | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience | 63.2k ⭐ | JavaScript | 2026-07-13 |
+| [**llm-app**](https://github.com/pathwaycom/llm-app) | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an… | 59.0k ⭐ | Jupyter Notebook | 2026-07-13 |
+| [**meilisearch**](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | 58.5k ⭐ | Rust | 2026-07-13 |
+| [**llama_index**](https://github.com/run-llama/llama_index) | LlamaIndex is the leading document agent and OCR platform | 50.8k ⭐ | Python | 2026-07-13 |
+| [**milvus**](https://github.com/milvus-io/milvus) | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search | 45.2k ⭐ | Go | 2026-07-13 |
+| [**khoj**](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI… | 35.7k ⭐ | Python | 2026-07-13 |
 
 
 ## Fine-tuning & Training
@@ -97,15 +97,15 @@ frameworks, libraries, and resources. Automatically updated daily by
 
 | Repository | Description | Stars | Language | Updated |
 |:-----------|:------------|------:|:--------:|:-------:|
-| [**LLMs-from-scratch**](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 98.9k ⭐ | Jupyter Notebook | 2026-07-12 |
-| [**LlamaFactory**](https://github.com/hiyouga/LlamaFactory) | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 73.2k ⭐ | Python | 2026-07-12 |
-| [**unsloth**](https://github.com/unslothai/unsloth) | Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally. | 68.0k ⭐ | Python | 2026-07-12 |
-| [**annotated_deep_learning_paper_implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(… | 67.1k ⭐ | Python | 2026-07-12 |
-| [**self-llm**](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 | 31.2k ⭐ | Jupyter Notebook | 2026-07-12 |
-| [**LLaVA**](https://github.com/haotian-liu/LLaVA) | [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. | 24.9k ⭐ | Python | 2026-07-11 |
-| [**airllm**](https://github.com/lyogavin/airllm) | AirLLM 70B inference with single 4GB GPU | 22.4k ⭐ | Jupyter Notebook | 2026-07-12 |
-| [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice) | Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. | 22.1k ⭐ | Python | 2026-07-12 |
-| [**peft**](https://github.com/huggingface/peft) | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. | 21.4k ⭐ | Python | 2026-07-12 |
+| [**LLMs-from-scratch**](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | 99.0k ⭐ | Jupyter Notebook | 2026-07-13 |
+| [**LlamaFactory**](https://github.com/hiyouga/LlamaFactory) | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 73.2k ⭐ | Python | 2026-07-13 |
+| [**unsloth**](https://github.com/unslothai/unsloth) | Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally. | 68.1k ⭐ | Python | 2026-07-13 |
+| [**annotated_deep_learning_paper_implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(… | 67.1k ⭐ | Python | 2026-07-13 |
+| [**self-llm**](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 | 31.3k ⭐ | Jupyter Notebook | 2026-07-13 |
+| [**LLaVA**](https://github.com/haotian-liu/LLaVA) | [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. | 24.9k ⭐ | Python | 2026-07-13 |
+| [**airllm**](https://github.com/lyogavin/airllm) | AirLLM 70B inference with single 4GB GPU | 22.5k ⭐ | Jupyter Notebook | 2026-07-13 |
+| [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice) | Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. | 22.1k ⭐ | Python | 2026-07-13 |
+| [**peft**](https://github.com/huggingface/peft) | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. | 21.4k ⭐ | Python | 2026-07-13 |
 | [**Chinese-LLaMA-Alpaca**](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs) | 18.9k ⭐ | Python | 2026-07-11 |
 
 
@@ -115,14 +115,14 @@ frameworks, libraries, and resources. Automatically updated daily by
 
 | Repository | Description | Stars | Language | Updated |
 |:-----------|:------------|------:|:--------:|:-------:|
-| [**litellm**](https://github.com/BerriAI/litellm) | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi… | 53.3k ⭐ | Python | 2026-07-12 |
-| [**langfuse**](https://github.com/langfuse/langfuse) | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 | 30.9k ⭐ | TypeScript | 2026-07-12 |
-| [**composio**](https://github.com/ComposioHQ/composio) | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. | 29.2k ⭐ | TypeScript | 2026-07-12 |
-| [**mlflow**](https://github.com/mlflow/mlflow) | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin… | 27.0k ⭐ | Python | 2026-07-12 |
-| [**llm-action**](https://github.com/liguodongiot/llm-action) | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） | 24.7k ⭐ | HTML | 2026-07-12 |
-| [**promptfoo**](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line… | 23.2k ⭐ | TypeScript | 2026-07-12 |
-| [**serve**](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | 21.9k ⭐ | Python | 2026-07-11 |
-| [**opik**](https://github.com/comet-ml/opik) | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 20.6k ⭐ | Python | 2026-07-12 |
+| [**litellm**](https://github.com/BerriAI/litellm) | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi… | 53.4k ⭐ | Python | 2026-07-13 |
+| [**langfuse**](https://github.com/langfuse/langfuse) | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 | 31.0k ⭐ | TypeScript | 2026-07-13 |
+| [**composio**](https://github.com/ComposioHQ/composio) | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. | 29.2k ⭐ | TypeScript | 2026-07-13 |
+| [**mlflow**](https://github.com/mlflow/mlflow) | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin… | 27.0k ⭐ | Python | 2026-07-13 |
+| [**llm-action**](https://github.com/liguodongiot/llm-action) | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） | 24.7k ⭐ | HTML | 2026-07-13 |
+| [**promptfoo**](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line… | 23.2k ⭐ | TypeScript | 2026-07-13 |
+| [**serve**](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | 21.9k ⭐ | Python | 2026-07-12 |
+| [**opik**](https://github.com/comet-ml/opik) | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 20.6k ⭐ | Python | 2026-07-13 |
 
 
 ## Deployment & Inference Serving
@@ -131,16 +131,16 @@ frameworks, libraries, and resources. Automatically updated daily by
 
 | Repository | Description | Stars | Language | Updated |
 |:-----------|:------------|------:|:--------:|:-------:|
-| [**vllm**](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | 86.0k ⭐ | Python | 2026-07-12 |
-| [**gpt4all**](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 77.4k ⭐ | C++ | 2026-07-12 |
-| [**ray**](https://github.com/ray-project/ray) | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | 43.2k ⭐ | Python | 2026-07-12 |
-| [**gitleaks**](https://github.com/gitleaks/gitleaks) | Find secrets with Gitleaks 🔑 | 28.1k ⭐ | Go | 2026-07-12 |
-| [**faster-whisper**](https://github.com/SYSTRAN/faster-whisper) | Faster Whisper transcription with CTranslate2 | 24.2k ⭐ | Python | 2026-07-12 |
-| [**Qbot**](https://github.com/UFund-Me/Qbot) | [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant | 18.0k ⭐ | Jupyter Notebook | 2026-07-12 |
-| [**litgpt**](https://github.com/Lightning-AI/litgpt) | 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale. | 13.5k ⭐ | Python | 2026-07-12 |
-| [**turbovec**](https://github.com/RyanCodrai/turbovec) | A vector index built on TurboQuant, written in Rust with Python bindings | 12.7k ⭐ | Python | 2026-07-12 |
-| [**OpenLLM**](https://github.com/bentoml/OpenLLM) | Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. | 12.4k ⭐ | Python | 2026-07-12 |
-| [**openvino**](https://github.com/openvinotoolkit/openvino) | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference | 10.5k ⭐ | C++ | 2026-07-12 |
+| [**vllm**](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | 86.1k ⭐ | Python | 2026-07-13 |
+| [**gpt4all**](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 77.4k ⭐ | C++ | 2026-07-13 |
+| [**ray**](https://github.com/ray-project/ray) | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | 43.2k ⭐ | Python | 2026-07-13 |
+| [**gitleaks**](https://github.com/gitleaks/gitleaks) | Find secrets with Gitleaks 🔑 | 28.1k ⭐ | Go | 2026-07-13 |
+| [**faster-whisper**](https://github.com/SYSTRAN/faster-whisper) | Faster Whisper transcription with CTranslate2 | 24.2k ⭐ | Python | 2026-07-13 |
+| [**Qbot**](https://github.com/UFund-Me/Qbot) | [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant | 18.1k ⭐ | Jupyter Notebook | 2026-07-13 |
+| [**litgpt**](https://github.com/Lightning-AI/litgpt) | 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale. | 13.5k ⭐ | Python | 2026-07-13 |
+| [**Halfrost-Field**](https://github.com/halfrost/Halfrost-Field) | ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记 | 13.2k ⭐ | Go | 2026-07-13 |
+| [**turbovec**](https://github.com/RyanCodrai/turbovec) | A vector index built on TurboQuant, written in Rust with Python bindings | 12.7k ⭐ | Python | 2026-07-13 |
+| [**OpenLLM**](https://github.com/bentoml/OpenLLM) | Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. | 12.4k ⭐ | Python | 2026-07-13 |
 
 
 ## RAG & Prompt Engineering
@@ -149,16 +149,16 @@ frameworks, libraries, and resources. Automatically updated daily by
 
 | Repository | Description | Stars | Language | Updated |
 |:-----------|:------------|------:|:--------:|:-------:|
-| [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. | 118.1k ⭐ | Python | 2026-07-12 |
-| [**caveman**](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman | 88.3k ⭐ | JavaScript | 2026-07-12 |
-| [**PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | 85.3k ⭐ | Python | 2026-07-12 |
-| [**ragflow**](https://github.com/infiniflow/ragflow) | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs | 84.8k ⭐ | Go | 2026-07-12 |
-| [**graphify**](https://github.com/Graphify-Labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable… | 82.6k ⭐ | Python | 2026-07-12 |
-| [**ponytail**](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 80.9k ⭐ | JavaScript | 2026-07-12 |
-| [**Prompt-Engineering-Guide**](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | 76.4k ⭐ | MDX | 2026-07-12 |
-| [**hello-agents**](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | 65.5k ⭐ | Python | 2026-07-12 |
-| [**headroom**](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. | 58.6k ⭐ | Python | 2026-07-12 |
-| [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -… | 56.4k ⭐ | JavaScript | 2026-07-12 |
+| [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. | 119.0k ⭐ | Python | 2026-07-13 |
+| [**caveman**](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman | 88.7k ⭐ | JavaScript | 2026-07-13 |
+| [**PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | 85.3k ⭐ | Python | 2026-07-13 |
+| [**ragflow**](https://github.com/infiniflow/ragflow) | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs | 84.9k ⭐ | Go | 2026-07-13 |
+| [**graphify**](https://github.com/Graphify-Labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable… | 83.6k ⭐ | Python | 2026-07-13 |
+| [**ponytail**](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 81.7k ⭐ | JavaScript | 2026-07-13 |
+| [**Prompt-Engineering-Guide**](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | 76.4k ⭐ | MDX | 2026-07-13 |
+| [**hello-agents**](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | 65.8k ⭐ | Python | 2026-07-13 |
+| [**headroom**](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. | 58.8k ⭐ | Python | 2026-07-13 |
+| [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -… | 56.9k ⭐ | JavaScript | 2026-07-13 |
 
 
 ## Multimodal & Vision-Language
@@ -167,14 +167,14 @@ frameworks, libraries, and resources. Automatically updated daily by
 
 | Repository | Description | Stars | Language | Updated |
 |:-----------|:------------|------:|:--------:|:-------:|
-| [**stable-diffusion-webui**](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | 164.2k ⭐ | Python | 2026-07-12 |
-| [**LocalAI**](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. | 47.5k ⭐ | Go | 2026-07-12 |
-| [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 37.9k ⭐ | TypeScript | 2026-07-12 |
-| [**OpenMontage**](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. | 37.2k ⭐ | Python | 2026-07-12 |
-| [**diffusers**](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. | 34.0k ⭐ | Python | 2026-07-12 |
-| [**sglang**](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | 30.2k ⭐ | Python | 2026-07-12 |
-| [**InvokeAI**](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol… | 27.6k ⭐ | TypeScript | 2026-07-12 |
-| [**pytorch-CycleGAN-and-pix2pix**](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | Image-to-Image Translation in PyTorch | 25.2k ⭐ | Python | 2026-07-10 |
+| [**stable-diffusion-webui**](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | 164.2k ⭐ | Python | 2026-07-13 |
+| [**LocalAI**](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. | 47.5k ⭐ | Go | 2026-07-13 |
+| [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 37.9k ⭐ | TypeScript | 2026-07-13 |
+| [**OpenMontage**](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. | 37.7k ⭐ | Python | 2026-07-13 |
+| [**diffusers**](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. | 34.1k ⭐ | Python | 2026-07-13 |
+| [**sglang**](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | 30.2k ⭐ | Python | 2026-07-13 |
+| [**InvokeAI**](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol… | 27.6k ⭐ | Python | 2026-07-13 |
+| [**Pixelle-Video**](https://github.com/ATH-MaaS/Pixelle-Video) | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine | 25.3k ⭐ | Python | 2026-07-13 |
 
 
 ---
@@ -193,6 +193,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) — contributions are welcome!
 
 <sub>
 Generated by <a href="https://github.com/Ahmed-Elshaarawy/awesome-curator">awesome-curator</a>
-on 2026-07-12 at 07:59:48 UTC.
+on 2026-07-13 at 08:48:19 UTC.
 Powered by the GitHub API + PyGitHub + aiohttp + Jinja2.
 </sub>
